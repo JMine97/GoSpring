@@ -42,13 +42,13 @@
         <img src="img\logo.png" class="logo" width="77" height="67">
     </a>
         <nav>
-            <a href="about.jsp" class="nav-item-active">about</a>
-            <a href="main.jsp">main</a>
+            <a href="/" class="nav-item-active">about</a>
+            <a href="/main">main</a>
         </nav>
     </header>
     <br><br>
     <div>
-        <img src="img\maxresdefault.jpg" width="85%" height="60%">
+        <img src="img\maxresdefault.jpg" width="800em" height="500em">
     </div>
     <div class="content">
         <br><br>
