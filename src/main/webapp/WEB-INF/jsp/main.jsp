@@ -79,9 +79,6 @@
         </nav>
     </header>
 
-    <!-- <div class="main_image">
-        <img src="C:\Coding\GoSpring\src\main\resources\static\img\995499415BA82B591F.png" width="800em" height="500em">
-    </div> -->
 
     
     <div id="wrapper">
@@ -124,7 +121,7 @@
 
         <div class="div_image">
                 <figure>
-                    <a href="/singer/iu">
+                    <a href="/board">
                     <img class="content_image1 content_image"
                         src="img\995499415BA82B591F.png" width="25%" height="20%">
                     <figcaption>IU</figcaption>
